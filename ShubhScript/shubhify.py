@@ -1,0 +1,1 @@
+def function shubhify (before) 
