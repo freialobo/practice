@@ -1,5 +1,6 @@
-"""this takes a string input like ' New York ' and returns it as my friend Subhankar Ghosh would use it in an instagram caption - like New York | 2015.
-This also automatically pulls the current year"""
+"""this takes a string input like ' New York ' and returns it as my friend Subhankar Ghosh
+would use it in an instagram caption - like New York | 2015.
+This also automatically pulls the current year so you don't have to think of it yourslef."""
 
 from datetime import date
 def  shubhify (before) :
